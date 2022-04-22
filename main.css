@@ -1,0 +1,12 @@
+body {
+    background-color: darkgrey;
+    margin: auto;
+    font-weight: bold;
+    text-align: center;
+    font-size: 15px;
+}
+h2 {
+    color: black;
+    text-align: center;
+}
+
